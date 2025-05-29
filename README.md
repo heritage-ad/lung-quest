@@ -32,5 +32,6 @@ GitHub – Version control and portfolio hosting
 
 # Author
 Heritage Adigun
+
 Aspiring computer scientist with a passion for healthcare innovation & accessible tech
 
