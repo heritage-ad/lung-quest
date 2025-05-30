@@ -11,11 +11,24 @@ Based on their answers, players are either:
 This project aims to increase awareness of clinical trial access and decision-making through gamified healthcare storytelling. Designed for accessibility and clarity, Lung Quest empowers users to understand the trial journey in a simple and engaging way.
 
 ## Project Files
-- `LungQuest.png` – Full game flowchart  
-- `LungQuest_Home.png` – Home screen mockup  
-- `LungQuest_Eligibility.png` – Eligibility question UI  
-- `LungQuest_TreatmentChoice.png` – Trial decision screen  
-- `README.md` – Overview and documentation  
+
+### Flowchart
+- `LungQuest.png` – Full game logic flowchart
+
+### UI Mockups (Canva)
+- `LungQuest_Home.png` – Designed home screen
+- `LungQuest_Eligibility.png` – Eligibility question screen
+- `LungQuest_TreatmentChoice.png` – Trial decision screen
+
+### Unity Prototype Screens
+- `Unity_Question.png` – In-game UI screenshot (from Unity)
+- `Unity_Outcome.png` – Unity outcome screen
+- `Unity_Home.png` – Unity start menu with working buttons
+- `Unity_Eligibility.png` - Eligibility question screen
+
+
+### Documentation
+- `README.md` – Project summary and instructions
 
 ## Tools Used
 - Lucidchart – Flowchart design  
