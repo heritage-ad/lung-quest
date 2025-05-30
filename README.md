@@ -36,7 +36,10 @@ This project aims to increase awareness of clinical trial access and decision-ma
 ### Start Menu (Unity)
 ![Unity Home](./Unity_Home.png)
 
-### Eligibility Question (Unity)
+### Eligibilty Question (Unity)
+![Unity Home](./Unity_Eligibility.png)
+
+### Treatment Choice Question (Unity)
 ![Unity Question](./Unity_Question.png)
 
 ### Outcome Screen (Unity)
