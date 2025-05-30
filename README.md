@@ -6,7 +6,7 @@ Lung Quest is an educational, decision-based game that simulates the clinical tr
 
 Based on their answers, players are either:
 - Guided through treatment trial options (aggressive or palliative), or
-- Shown why they may not qualify — all within an interactive, user-friendly format.
+- Shown that they are not qualified — all within an interactive, user-friendly format.
 
 This project aims to increase awareness of clinical trial access and decision-making through gamified healthcare storytelling. Designed for accessibility and clarity, Lung Quest empowers users to understand the trial journey in a simple and engaging way.
 
